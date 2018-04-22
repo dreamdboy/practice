@@ -1,1 +1,2 @@
-the file is to test own fork.
+<?php
+echo 'HELLO WORLD';
