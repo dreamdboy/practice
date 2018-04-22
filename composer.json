@@ -1,4 +1,21 @@
 {
-    "name": "vendor/composerTest",
-    "description": "test vcs laod package"
+  "name": "testName/test-composer",
+  "description": "echo Hello world",
+  "type": "library",
+  "require": {
+    "php": ">=7.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zsk"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "testName\\": "src/"
+    }
+  }
 }
+

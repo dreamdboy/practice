@@ -1,5 +1,5 @@
 <?php
-namespace test;
+namespace testName;
 
 class TestComposer
 {
