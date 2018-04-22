@@ -1,11 +1,4 @@
 {
-  "require":{
-    "php": ">=5.4.0"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/dreamdboy/practice.git"
-    }
-  ]
+    "name": "vendor/composerTest",
+    "description": "test vcs laod package"
 }
